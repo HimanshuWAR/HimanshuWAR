@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HimanshuWAR
 - 👀 I’m interested in developing and helping.
-- 🌱 I’m currently learning c++ and python
+- 🌱 learnt c++ language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
    phone no/whatsapp:+919967444750
